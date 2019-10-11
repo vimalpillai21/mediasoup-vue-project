@@ -9,6 +9,9 @@
   },
   "dependencies": {
     "core-js": "^2.6.5",
+    "mediasoup-client": "^3.2.6",
+    "protoo-client": "^4.0.3",
+    "protoo-server": "^4.0.3",
     "register-service-worker": "^1.6.2",
     "vue": "^2.6.10",
     "vue-router": "^3.0.3",
